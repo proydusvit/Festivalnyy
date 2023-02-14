@@ -32,7 +32,7 @@ export default function HomePages() {
              
                         
                             <TitleMain>Фесточка - ваш успіх</TitleMain>
-                            <Link to="/service">ЗАБРОНЮВАТИ</Link>
+                            <Link to="/service">Переглянути</Link>
                    
 
                     </Section>
