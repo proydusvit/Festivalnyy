@@ -1,7 +1,7 @@
 import { useParams, useLocation } from "react-router-dom";
 import { getProductById } from "../../festik";
 import { BackLink } from "../../components/Backlink/backLink";
-import { ConteinerDetalis, Main, TitleDetalis, TitleDetalisTwo} from "./productDetalis.style";
+import { ConteinerDetalis, Main, TitleDetalis, TitleDetalisTwo, A} from "./productDetalis.style";
 import IndividualIntervalsExample from "../../components/Carusel/Carusel";
 import { ColorRing } from 'react-loader-spinner'
 import { useState, useEffect } from "react";
@@ -42,10 +42,10 @@ const ProductDetalis = () => {
       
               <TitleDetalis>{product.detalis}</TitleDetalis>
               <IndividualIntervalsExample />
+             
 
               <TitleDetalisTwo>{product.detalisTwo}</TitleDetalisTwo>
 
-         
            
             </Main>
           </ConteinerDetalis>}

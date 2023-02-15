@@ -11,11 +11,11 @@ export const Section = styled.section`
  
     max-width: 1600px;
 
-    background-image: linear-gradient(to bottom, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),url("https://i.ibb.co/7jGCSJB/image.jpg");
+    background-image: url("https://res.cloudinary.com/dg6fnnbpd/image/upload/v1676405306/o_1g076nstq7k0q1arho49s14ua1u_jjnzy2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-  box-shadow: inset 0 0 10px 5px ;
+
 
     @media screen and (min-width: 768px) {
           padding-top: 118px;
@@ -23,9 +23,9 @@ export const Section = styled.section`
     max-width: 768px;
     }
     @media screen and (min-width: 1200px) {
-        padding-top: 200px;
-        padding-bottom: 200px;
-        height: 600px;
+        padding-top: 163px;
+        padding-bottom: 163px;
+      
     max-width: 1600px;
 }
 
@@ -81,8 +81,7 @@ background-color: #f8abeb;
 padding: 15px 20px;
 border: 0;
 border-radius: 4px;
--webkit-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15) #f8abeb;
+
  :hover {
     background-color: #f8abeb;
     color:#fcfcfc;

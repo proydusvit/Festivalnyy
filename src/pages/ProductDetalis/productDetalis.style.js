@@ -85,4 +85,9 @@ margin: 10px 0 10px;
 }
 
 `;
-
+export const A = styled.a`
+  text-decoration: none;
+  padding: 15px 20px;
+  background-color: tomato;
+  margin-top: 30px;
+`;

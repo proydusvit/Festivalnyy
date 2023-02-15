@@ -1,3 +1,5 @@
+
+
 const products = [
   // {
   //   name: "Кабінет А",
@@ -45,11 +47,10 @@ const products = [
     square: "18 кв.м",
      img: [
       {
-        preview:
-          'https://i.ibb.co/3NQkt94/IMG-6186.jpg',
+        preview: 'https://res.cloudinary.com/dg6fnnbpd/image/upload/v1676402015/IMG_6186_qpgp5r.jpg',
         original:
-          'https://i.ibb.co/3NQkt94/IMG-6186.jpg',
-        originaltwo: 'https://i.ibb.co/HFVDBkM/IMG-6181.jpg',
+          'https://res.cloudinary.com/dg6fnnbpd/image/upload/v1676402196/IMG_6181_vcjyco.jpg',
+        originaltwo: 'https://res.cloudinary.com/dg6fnnbpd/image/upload/v1676402015/IMG_6186_qpgp5r.jpg',
       },
     ]
   },
@@ -103,10 +104,10 @@ const products = [
     img: [
       {
         preview:
-          'https://i.ibb.co/S7NxxCd/2022-12-28-18-13-32.png',
+          'https://res.cloudinary.com/dg6fnnbpd/image/upload/v1676402412/IMG_6203_fhhqqo.jpg',
         original:
-          'https://i.ibb.co/S7NxxCd/2022-12-28-18-13-32.png',
-        originaltwo: 'https://i.ibb.co/S7NxxCd/2022-12-28-18-13-32.png',
+          'https://res.cloudinary.com/dg6fnnbpd/image/upload/v1676402412/IMG_6203_fhhqqo.jpg',
+        originaltwo: 'https://res.cloudinary.com/dg6fnnbpd/image/upload/v1676402412/IMG_6203_fhhqqo.jpg',
       },
     ]
  },
@@ -141,10 +142,10 @@ price: "200 грн/год",
   img: [
       {
         preview:
-          'https://i.ibb.co/X34XrLc/IMG-6175.jpg',
+          'https://res.cloudinary.com/dg6fnnbpd/image/upload/v1676402854/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-02-14_%D0%BE_21.27.26_jmnncv.png',
         original:
-          'https://i.ibb.co/X34XrLc/IMG-6175.jpg',
-        originaltwo: 'https://i.ibb.co/X34XrLc/IMG-6175.jpg',
+          'https://res.cloudinary.com/dg6fnnbpd/image/upload/v1676402854/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-02-14_%D0%BE_21.27.26_jmnncv.png',
+        originaltwo: 'https://res.cloudinary.com/dg6fnnbpd/image/upload/v1676402854/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-02-14_%D0%BE_21.27.26_jmnncv.png',
       },
     ]
 },
@@ -178,10 +179,10 @@ price: "200 грн/год",
     img: [
       {
         preview:
-          'https://i.ibb.co/KXF3fBG/IMG-6456.jpg',
+          'https://res.cloudinary.com/dg6fnnbpd/image/upload/v1676402968/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-02-14_%D0%BE_21.29.18_li2mky.png',
         original:
-          'https://i.ibb.co/KXF3fBG/IMG-6456.jpg',
-        originaltwo: 'https://i.ibb.co/yf7kGbL/IMG-6457.jpg',
+          'https://res.cloudinary.com/dg6fnnbpd/image/upload/v1676403006/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-02-14_%D0%BE_21.29.59_xzyhkw.png',
+        originaltwo: 'https://res.cloudinary.com/dg6fnnbpd/image/upload/v1676402968/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-02-14_%D0%BE_21.29.18_li2mky.png',
       },
     ]
 },
@@ -196,10 +197,10 @@ price: "200 грн/год",
  img: [
       {
         preview:
-          'https://i.ibb.co/3CrRMhQ/IMG-6444.jpg',
+          'https://res.cloudinary.com/dg6fnnbpd/image/upload/v1676403536/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-02-14_%D0%BE_21.38.47_nhdxec.png',
         original:
-          'https://i.ibb.co/3CrRMhQ/IMG-6444.jpg',
-        originaltwo: 'https://i.ibb.co/k0g1Dh9/IMG-6449.jpg',
+          'https://res.cloudinary.com/dg6fnnbpd/image/upload/v1676403574/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-02-14_%D0%BE_21.39.29_wtj8vf.png',
+        originaltwo: 'https://res.cloudinary.com/dg6fnnbpd/image/upload/v1676403536/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-02-14_%D0%BE_21.38.47_nhdxec.png',
       },
     ]
 },
@@ -214,10 +215,10 @@ price: "200 грн/год",
  img: [
       {
         preview:
-          'https://i.ibb.co/QcbZby5/IMG-6223-1.jpg',
+          'https://res.cloudinary.com/dg6fnnbpd/image/upload/v1676403664/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-02-14_%D0%BE_21.40.56_cc2wdh.png',
         original:
-          'https://i.ibb.co/QcbZby5/IMG-6223-1.jpg',
-        originaltwo: 'https://i.ibb.co/6RH224T/IMG-6191.jpg',
+          'https://res.cloudinary.com/dg6fnnbpd/image/upload/v1676403698/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-02-14_%D0%BE_21.41.34_so02o4.png',
+        originaltwo: 'https://res.cloudinary.com/dg6fnnbpd/image/upload/v1676403664/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-02-14_%D0%BE_21.40.56_cc2wdh.png',
       },
     ]
   },
@@ -232,10 +233,10 @@ price: "200 грн/год",
  img: [
       {
         preview:
-          'https://i.ibb.co/FsBMk4N/IMG-6462.jpg',
+          'https://res.cloudinary.com/dg6fnnbpd/image/upload/v1676404028/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-02-14_%D0%BE_21.47.00_cx5b4x.png',
         original:
-          'https://i.ibb.co/FsBMk4N/IMG-6462.jpg',
-        originaltwo: 'https://i.ibb.co/RjpMpck/IMG-6465.jpg',
+          'https://res.cloudinary.com/dg6fnnbpd/image/upload/v1676404057/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-02-14_%D0%BE_21.47.31_wolxzv.png',
+        originaltwo: 'https://res.cloudinary.com/dg6fnnbpd/image/upload/v1676404028/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-02-14_%D0%BE_21.47.00_cx5b4x.png',
       },
     ]
 }        

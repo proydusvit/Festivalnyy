@@ -54,7 +54,7 @@ export const Header = styled(Navbar)`
 align-items: center;
 
 background: #f8abeb;
-box-shadow: 5px 2px 5px #fcfcfc;
+
 
 
   > nav {
@@ -103,5 +103,5 @@ position: absolute;
 top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
-  }
+  
 `;

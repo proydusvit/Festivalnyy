@@ -20,7 +20,7 @@ export const Footer = styled.footer`
 padding-top: 10px;
 padding-bottom: 10px;
 background-color: #fcfcfc;
-box-shadow: 0px 2px 10px #f8abeb;
+box-shadow: 0px 2px 10px pink;
 @media screen and (min-width:768px) and (max-width:1199px) {
  padding-top: 25px;
 padding-bottom: 5px;
@@ -62,13 +62,13 @@ margin-bottom:20px;
       
     }
 
-}
+
 `;
 export const SocialBox = styled.div`
 display:block;
 
 
-}
+
 `;
 export const SocialTitle = styled.h2`
 margin-bottom:25px;
@@ -92,7 +92,7 @@ text-align: center;
     align-items: center;
   }
 
-}
+
 `;
 export const LinkTel = styled.a`
 display: flex;
