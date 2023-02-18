@@ -24,10 +24,19 @@ function IndividualIntervalsExample() {
              
         />
           <Carousel.Caption >
-           
+              
+            <h2 style={{
+     
+              backgroundColor: "pink",
+        
+      }}>{product.name} - {product.square}</h2>
+              <h3 style={{
+   
+              backgroundColor: "pink",
+        
+      }}>{product.price}</h3>
+             
          
-            <h2>{product.name} - {product.square}</h2>
-            <h3>{product.price}</h3>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item interval={4000}>
@@ -39,12 +48,21 @@ function IndividualIntervalsExample() {
            width={"1100px"}
           height={"500px"}
         />
-          <Carousel.Caption>
+          <Carousel.Caption >
+         
+         
+           <h2 style={{
+     
+              backgroundColor: "pink",
+        
+      }}>{product.name} - {product.square}</h2>
+            <h3 style={{
+     
+              backgroundColor: "pink",
+        
+      }}>{product.price}</h3>
           
          
-           <h2>{product.name} - {product.square}</h2>
-            <h3>{product.price}</h3>
-          
         </Carousel.Caption>
       </Carousel.Item>
      

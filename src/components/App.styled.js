@@ -20,7 +20,9 @@ padding: 0;
     @media screen and (min-width: 1200px) {
 
  margin-right: 50px;
+
     }
+      
 
 `;
 export const ItemLogo = styled.li`
@@ -50,7 +52,7 @@ font-size:19px;
 export const Header = styled(Navbar)`
    
   display: flex;
-  justify-content: space-between;
+
 align-items: center;
 
 background: #f8abeb;

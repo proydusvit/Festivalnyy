@@ -6,8 +6,6 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 
-
-
 export const SharedLayout = () => {
 
   return (
@@ -20,7 +18,7 @@ export const SharedLayout = () => {
           <Nav className="me-auto">
             <Nav.Link><Item><Link to="/service">Послуги оренди</Link> </Item></Nav.Link>
               <Nav.Link><Item><Link to="/rules">Правила і умови </Link> </Item></Nav.Link>
-               <Nav.Link><Item> <a href="tel:+38050 469 76 26">Забронювати 	&#128222;</a></Item></Nav.Link>
+             
           </Nav>
           
         </Navbar.Collapse>
