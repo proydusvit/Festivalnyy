@@ -1,7 +1,7 @@
 import { useParams } from "react-router-dom";
 import { Carousel } from 'react-bootstrap'
 import { getProductById } from "../../festik";
-import { Img , A} from "./carusel.style";
+import { Img } from "./carusel.style";
 
 function IndividualIntervalsExample() {
     const { id } = useParams();
@@ -25,16 +25,8 @@ function IndividualIntervalsExample() {
         />
           <Carousel.Caption >
               
-            <h2 style={{
-     
-              backgroundColor: "pink",
-        
-      }}>{product.name} - {product.square}</h2>
-              <h3 style={{
-   
-              backgroundColor: "pink",
-        
-      }}>{product.price}</h3>
+            <h2 >{product.name} - {product.square}</h2>
+              <h3 >{product.price}</h3>
              
          
         </Carousel.Caption>
@@ -51,16 +43,8 @@ function IndividualIntervalsExample() {
           <Carousel.Caption >
          
          
-           <h2 style={{
-     
-              backgroundColor: "pink",
-        
-      }}>{product.name} - {product.square}</h2>
-            <h3 style={{
-     
-              backgroundColor: "pink",
-        
-      }}>{product.price}</h3>
+           <h2 >{product.name} - {product.square}</h2>
+            <h3 >{product.price}</h3>
           
          
         </Carousel.Caption>
